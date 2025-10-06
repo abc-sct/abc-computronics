@@ -1,0 +1,16 @@
+{
+  "name": "ABC Computronics | Mushtaq Ahmad Beigh Official Website",
+  "short_name": "ABC Computronics",
+  "description": "Official optimized website for ABC Computronics and Mushtaq Ahmad Beigh — training institute in technology and creative arts.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078d7",
+  "icons": [
+    {
+      "src": "assets/icons/favicon-glossy.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
